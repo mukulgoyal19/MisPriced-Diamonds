@@ -17,7 +17,7 @@ The Aim for creating this Visualization was to study the quality vs pricing insi
 * Does a better clarity always mean the diamond is priced higher or Does the relationship sometimes hold true, or are they mispriced in market.
 
 ### Insights
-
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 * Comparisons
   * Best (Quality Vs Pricing): "IF" Category, good quality are priced higher and low or faulty diamonds are priced lower.
   * Worst (Quality Vs Pricing): "I1" Category, Good quality are priced lower.
